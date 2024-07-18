@@ -1,0 +1,74 @@
+{
+    "name": "Saumya Srivastava",
+    "contact_information": {
+      "linkedin": "linkedin.com/in",
+      "location": "Uttar Pradesh, India",
+      "phone": "+91 8960704420",
+      "email": "saumya.srivastava20002@gmail.com"
+    },
+    "education": [
+      {
+        "degree": "Bachelor of Technology in Computer Science",
+        "institution": "GLA University",
+        "cpi": "8.18",
+        "graduation_year": "2025"
+      }
+    ],
+    "experience": [
+      {
+        "title": "Full Stack Web Development Certification",
+        "organization": "Coursera",
+        "location": "Uttar Pradesh, India",
+        "duration": "August 2021 - June 2025"
+      },
+      {
+        "title": "Web Development Training",
+        "organization": "",
+        "location": "Uttar Pradesh, India",
+        "duration": "June 2023 – September 2023",
+        "responsibilities": [
+          "Worked on basics of HTML, CSS and JavaScript along with Bootstrap CSS",
+          "Worked on React, Django, MongoDB, NodeJS, and Express JS full-stack web development tech stacks",
+          "Created projects with MERN stack and also learned git/GitHub for collaborative development"
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "name": "Learners’ Ed",
+        "technology": ["AIML", "Django"],
+        "hackathon": "Intel OneAPI 2023 Hackathon, IISc Bangalore",
+        "description": "Enhanced online learning with our user-friendly interface powered by AI models like Drowsiness Detection, Face Pose Detection, and Plagiarism Checker. Designed a Virtual Pet that the user could feed with points earned through academic quizzes, thus improving competitiveness. Improvised with Intel oneAPI optimizing frameworks (oneDNN & Tensorflow-Kit)"
+      },
+      {
+        "name": "EchoSphere Grievances Redressal System",
+        "technology": ["AIML", "Django", "React"],
+        "hackathon": "SIH Internal Hackathon (2023)",
+        "description": "Created a Grievances Redressal System that would provide user-friendliness to people of all backgrounds. Integrated with AIML models like Distress Detection, Pot-Hole Detection & Collision Detection, to report real-time grievances with street cameras. Designed a Hardware System that could be installed in street cameras acting as a real-time call for help for people in danger"
+      },
+      {
+        "name": "MovieMate",
+        "technology": ["React", "NodeJS", "ExpressJS", "MongoDB"],
+        "hackathon": "Intel OneAPI 2023 Hackathon, IISc Bangalore",
+        "description": "A movie search application that allows users to add their favourite movies to public/private playlists. Login/Sign Up using JWT for authentication of the users. React and ExpressJs is used for creating interactive and RESTful API environment."
+      }
+    ],
+    "achievements": [
+      "Winner at IBM Technical Presentation on 'MLOps' at the annual IBM-ICE Event",
+      "2nd runner-up at the Intel One API Hackathon, secured third prize among 66 shortlisted teams",
+      "1st runner-up at the SIH Internal Hackathon, secured nomination for the national-level hackathon",
+      "Solved 380+ DSA Problems on Leetcode"
+    ],
+    "profile_links": {
+      "LinkedIn": "LinkedIn",
+      "Leetcode": "Leetcode"
+    },
+    "technical_skills": [
+      "GitHub",
+      "Programming Languages: Python, Java, C",
+      "Web Development: React, NodeJS, ExpressJS, Django, HTML, CSS, JS, Bootstrap",
+      "Databases: MySQL, MongoDB",
+      "Tools: Git, Postman"
+    ]
+  }
+  

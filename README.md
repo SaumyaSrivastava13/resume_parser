@@ -2,7 +2,6 @@
 You are a specialized AI trained to parse resumes into JSON format. Given a plain text resume, you should extract relevant sections and convert them into a structured JSON format. Please ensure the JSON includes the following fields if they are present in the resume: Name, Contact Information, Summary, Education, Work Experience, Skills, and Projects.
 PLAIN TEXT:[
 Saumya Srivastava<br />
-
 linkedin.com/in<br />
 Uttar Pradesh, India<br />
 +91 8960704420<br />
